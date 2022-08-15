@@ -63,16 +63,16 @@
 #define DEFAULT_SELECTION_RADIUS 0.1
 
 // file localtions
-#define DEFAULT_VERT_SHADER_FILE "./shaders/vert.glsl"
-#define DEFAULT_FRAG_SHADER_FILE "./shaders/frag.glsl"
-#define DEFAULT_SCENE_FILE "./scenes/test_scene.xml"
-#define DEFAULT_CONFIG_FILE "./config/config.txt"
-#define DEFAULT_CLOTH_STATE_FILE "./config/cloth.txt"
-#define DEFAULT_TEXTURE_FILE "./textures/chinese_porcelain_1.png"
-#define DEFAULT_SCREEN_SHOT_FILE "./output/ScreenShot.png"
-#define DEFAULT_OUTPUT_CLOTH_STATE_FILE "./output/cloth.txt"
-#define DEFAULT_OUTPUT_OBJ_FILE "./output/cloth.obj"
-#define DEFAULT_MODEL "./mesh_models/frog_reg.mesh"
-#define DEFAULT_OBJ_MODEL "./obj_models/bunny.obj"
+//#define DEFAULT_VERT_SHADER_FILE "./shaders/vert.glsl"
+//#define DEFAULT_FRAG_SHADER_FILE "./shaders/frag.glsl"
+//#define DEFAULT_SCENE_FILE "./scenes/test_scene.xml"
+//#define DEFAULT_CONFIG_FILE "./config/config.txt"
+//#define DEFAULT_CLOTH_STATE_FILE "./config/cloth.txt"
+//#define DEFAULT_TEXTURE_FILE "./textures/chinese_porcelain_1.png"
+//#define DEFAULT_SCREEN_SHOT_FILE "./output/ScreenShot.png"
+//#define DEFAULT_OUTPUT_CLOTH_STATE_FILE "./output/cloth.txt"
+//#define DEFAULT_OUTPUT_OBJ_FILE "./output/cloth.obj"
+//#define DEFAULT_MODEL "./mesh_models/frog_reg.mesh"
+//#define DEFAULT_OBJ_MODEL "./obj_models/bunny.obj"
 
 #endif
